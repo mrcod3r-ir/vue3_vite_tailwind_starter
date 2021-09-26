@@ -1,0 +1,9 @@
+npm init @vitejs/app vite-app
+
+vue 
+
+npm install --save-dev eslint prettier eslint-plugin-vue eslint-config-prettier
+
+npm install vue-router@4
+
+npm install vuex@next --save
